@@ -1,4 +1,4 @@
-module github.com/shayne/go-streamdeck-sdk
+module github.com/HSGEV/go-streamdeck-sdk
 
 go 1.12
 
